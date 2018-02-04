@@ -11,8 +11,10 @@ Follow: https://itmug.wordpress.com/network/arista-networks/install-arista-eos-i
 Follow: https://www.arista.com/assets/data/pdf/user-manual/um-eos/Chapters/Initial%20Configuration%20and%20Recovery.pdf <br>
 Follow: https://eos.arista.com/building-a-virtual-lab-with-arista-veos-and-virtualbox/
 
+3. Setup eAPI on the Arista Switch <br>
+Follow: http://packetpushers.net/arista-eapi/ <br>
 
-Initial Basic Topology:
+## Basic Topology:
 
 1. Setup a Ubuntu Server 
 + Setup a Host-Only Network (Private)
