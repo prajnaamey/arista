@@ -14,6 +14,10 @@ Follow: https://eos.arista.com/building-a-virtual-lab-with-arista-veos-and-virtu
 3. Setup eAPI on the Arista Switch <br>
 Follow: http://packetpushers.net/arista-eapi/ <br>
 
+4. Exploring the eAPI
+Follow: https://fredhsu.wordpress.com/2014/02/13/arista-json-eapi-example/ <br>
+Follow: http://packetpushers.net/arista-eapi/ <br>
+
 ## Basic Topology:
 
 1. Setup a Ubuntu Server 
